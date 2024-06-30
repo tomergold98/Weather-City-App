@@ -1,0 +1,7 @@
+<resources>
+    <string name="greeting">Weather app</string>
+    <string name="enter_city_name_hint">Enter the name of the city in English</string>
+    <string name="start">Check</string>
+    <string name="details">More details</string>
+    <string name="Back">Go Back</string>
+</resources>
